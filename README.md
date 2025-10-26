@@ -46,5 +46,5 @@ Pilih device (Android Emulator atau Chrome).
 
 👩‍💻 Pengembang
 
-Tia Novita Sari
+Rifka Arinda Rahma
 Proyek UTS Flutter – Tema Wanita (Pink Pastel)
